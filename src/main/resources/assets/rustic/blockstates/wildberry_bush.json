@@ -1,0 +1,46 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "rustic:berry_bush",
+		"textures": {
+			"log": "blocks/log_oak",
+			"leaves": "rustic:blocks/herbs/berry_bush_leaves"
+		}
+	},
+	"variants": {
+		"age": {
+			"0": {},
+			"1": {},
+			"2": {},
+			"3": {},
+			"4": {},
+			"5": { "submodel": { "berries": [
+				{ "model": "rustic:berries_0_0", "textures": { "berry": "rustic:blocks/herbs/wildberry" } },
+				{ "model": "rustic:berries_0_0", "textures": { "berry": "rustic:blocks/herbs/wildberry" }, "y": 90 },
+				{ "model": "rustic:berries_0_0", "textures": { "berry": "rustic:blocks/herbs/wildberry" }, "y": 180 },
+				{ "model": "rustic:berries_0_0", "textures": { "berry": "rustic:blocks/herbs/wildberry" }, "y": 270 },
+				{ "model": "rustic:berries_0_1", "textures": { "berry": "rustic:blocks/herbs/wildberry" } },
+				{ "model": "rustic:berries_0_1", "textures": { "berry": "rustic:blocks/herbs/wildberry" }, "y": 90 },
+				{ "model": "rustic:berries_0_1", "textures": { "berry": "rustic:blocks/herbs/wildberry" }, "y": 180 },
+				{ "model": "rustic:berries_0_1", "textures": { "berry": "rustic:blocks/herbs/wildberry" }, "y": 270 },
+				{ "model": "rustic:berries_0_2", "textures": { "berry": "rustic:blocks/herbs/wildberry" } },
+				{ "model": "rustic:berries_0_2", "textures": { "berry": "rustic:blocks/herbs/wildberry" }, "y": 90 },
+				{ "model": "rustic:berries_0_2", "textures": { "berry": "rustic:blocks/herbs/wildberry" }, "y": 180 },
+				{ "model": "rustic:berries_0_2", "textures": { "berry": "rustic:blocks/herbs/wildberry" }, "y": 270 }
+			] } },
+			"6": { "submodel": { "berries": [
+				{ "model": "rustic:berries_1", "textures": { "berry": "rustic:blocks/herbs/wildberry" } },
+				{ "model": "rustic:berries_1", "textures": { "berry": "rustic:blocks/herbs/wildberry" }, "y": 90 },
+				{ "model": "rustic:berries_1", "textures": { "berry": "rustic:blocks/herbs/wildberry" }, "y": 180 },
+				{ "model": "rustic:berries_1", "textures": { "berry": "rustic:blocks/herbs/wildberry" }, "y": 270 }
+			] } }
+		},
+		"inventory": {
+			"model": "rustic:berry_bush",
+			"textures": {
+				"log": "blocks/log_oak",
+				"leaves": "rustic:blocks/herbs/berry_bush_leaves"
+			}
+		}
+	}
+}

@@ -1,0 +1,52 @@
+#Creative Tabs
+itemGroup.rustic.decor=Rustic Decorations
+
+#Tooltips
+
+#Info
+tank.empty=Empty
+
+#Containers
+container.rustic.pot=Pot
+container.rustic.barrel=Barrel
+
+#Blocks
+tile.rustic.alembic.name=Alembic
+tile.rustic.iron_receptacle.name=Iron Receptacle
+tile.rustic.alchemic_receptacle.name=Alchemic Receptacle
+tile.rustic.pot.name=Pot
+tile.rustic.barrel.name=Barrel
+tile.rustic.stone_pillar.name=Stone Pillar
+tile.rustic.sandstone_pillar.name=Sandstone Pillar
+tile.rustic.red_sandstone_pillar.name=Red Sandstone Pillar
+tile.rustic.polished_stone.name=Polished Stone
+tile.rustic.polished_sandstone.name=Polished Sandstone
+tile.rustic.polished_red_sandstone.name=Polished Red Sandstone
+tile.rustic.sandstone_brick.name=Sandstone Bricks
+tile.rustic.red_sandstone_brick.name=Red Sandstone Bricks
+tile.rustic.sandstone_brick_stairs.name=Sandstone Brick Stairs
+tile.rustic.red_sandstone_brick_stairs.name=Red Sandstone Brick Stairs
+tile.rustic.sandstone_brick_slab.name=Sandstone Brick Slab
+tile.rustic.red_sandstone_brick_slab.name=Red Sandstone Brick Slab
+tile.rustic.wildberry_bush.name=Wildberry Bush
+tile.rustic.power_berry_bush.name=Power Berry Bush
+
+#Items
+item.rustic.mallet.name=Wooden Mallet
+item.rustic.wildberries.name=Wildberries
+item.rustic.power_berries.name=Power Berries
+
+#Fluids
+
+
+#Potion Effects
+
+
+#Elixirs
+ 
+
+#JEI Categories
+
+
+#Book
+

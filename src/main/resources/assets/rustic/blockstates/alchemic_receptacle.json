@@ -1,0 +1,10 @@
+{
+	"multipart": [
+		{ "when": { "connected": "false" }, "apply": { "model": "rustic:iron_receptacle" } },
+		{ "when": { "connected": "true" }, "apply": { "model": "rustic:alchemic_receptacle" } },
+		{ "when": { "connected": "true", "facing": "north" }, "apply": { "model": "rustic:receptacle_pipe" } },
+		{ "when": { "connected": "true", "facing": "south" }, "apply": { "model": "rustic:receptacle_pipe", "y": 180 } },
+		{ "when": { "connected": "true", "facing": "west" }, "apply": { "model": "rustic:receptacle_pipe", "y": 270 } },
+		{ "when": { "connected": "true", "facing": "east" }, "apply": { "model": "rustic:receptacle_pipe", "y": 90 } }
+	]
+}

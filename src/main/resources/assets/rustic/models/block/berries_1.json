@@ -1,0 +1,124 @@
+{
+    "textures": {
+        "particle": "#berry"
+    },
+    "elements": [
+        {
+            "name": "Berry1",
+            "from": [ 5.0, 12.0, 1.0 ], 
+            "to": [ 7.0, 14.0, 3.0 ], 
+            "faces": {
+                "north": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 },
+                "east": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 },
+                "south": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 },
+                "west": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "up": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "down": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "Berry2",
+            "from": [ 8.0, 7.0, 1.0 ], 
+            "to": [ 10.0, 9.0, 3.0 ], 
+            "faces": {
+                "north": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "east": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 },
+                "south": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 },
+                "west": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 },
+                "up": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 },
+                "down": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] }
+            }
+        },
+        {
+            "name": "Berry3",
+            "from": [ 1.0, 6.0, 9.0 ], 
+            "to": [ 3.0, 8.0, 11.0 ], 
+            "faces": {
+                "north": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 },
+                "east": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 },
+                "south": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "west": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 },
+                "up": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 },
+                "down": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 }
+            }
+        },
+        {
+            "name": "Berry4",
+            "from": [ 1.0, 13.0, 5.0 ], 
+            "to": [ 3.0, 15.0, 7.0 ], 
+            "faces": {
+                "north": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 },
+                "east": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "south": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 },
+                "west": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 },
+                "up": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 },
+                "down": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 }
+            }
+        },
+        {
+            "name": "Berry5",
+            "from": [ 6.0, 12.0, 13.0 ], 
+            "to": [ 8.0, 14.0, 15.0 ], 
+            "faces": {
+                "north": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 },
+                "east": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 },
+                "south": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "west": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 },
+                "up": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 },
+                "down": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 }
+            }
+        },
+        {
+            "name": "Berry6",
+            "from": [ 10.0, 7.0, 13.0 ], 
+            "to": [ 12.0, 9.0, 15.0 ], 
+            "faces": {
+                "north": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 },
+                "east": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 },
+                "south": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 },
+                "west": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "up": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "down": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "Berry7",
+            "from": [ 13.0, 8.0, 10.0 ], 
+            "to": [ 15.0, 10.0, 12.0 ], 
+            "faces": {
+                "north": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 },
+                "east": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "south": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 },
+                "west": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 },
+                "up": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 },
+                "down": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 }
+            }
+        },
+        {
+            "name": "Berry8",
+            "from": [ 13.0, 11.0, 4.0 ], 
+            "to": [ 15.0, 13.0, 6.0 ], 
+            "faces": {
+                "north": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "east": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 },
+                "south": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 },
+                "west": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 },
+                "up": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 },
+                "down": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] }
+            }
+        },
+        {
+            "name": "Berry9",
+            "from": [ 8.0, 15.0, 4.0 ], 
+            "to": [ 10.0, 17.0, 6.0 ], 
+            "faces": {
+                "north": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "east": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 },
+                "south": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 270 },
+                "west": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 180 },
+                "up": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ], "rotation": 90 },
+                "down": { "texture": "#berry", "uv": [ 0.0, 0.0, 2.0, 2.0 ] }
+            }
+        }
+    ]
+}

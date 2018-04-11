@@ -1,0 +1,49 @@
+General
+	Good
+		Speed
+		Regeneration
+		Instant Health
+		Iron Skin
+		Jump Boost
+		Night Vision
+		Invisibility
+		Water Breathing
+		Haste
+		Strength
+		Fire Resistance
+		Slow Falling
+	Bad
+		Slowness
+		Poison
+		Instant Damage
+		Levitation
+		Weakness
+		Wither
+		Blindness
+		
+Secondary Tier 1
+	Good
+		Speed
+		Regeneration
+		Instant Health
+		Iron Skin
+		Jump Boost
+		Night Vision
+		Slow Falling
+	Bad
+		Slowness
+		Poison
+		Instant Damage
+		Weakness
+
+Secondary Tier 2
+	Good
+		Invisibility
+		Haste
+		Strength
+		Fire Resistance
+		Water Breathing
+	Bad
+		Levitation
+		Wither
+		Blindness

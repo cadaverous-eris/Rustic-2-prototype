@@ -1,0 +1,11 @@
+{	
+	"forge_marker": 1,
+	"defaults": {},
+	"variants": {
+		"closed": {
+			"true": { "model": "rustic:barrel_closed" },
+			"false": { "model": "rustic:barrel" }
+		},
+		"inventory": { "model": "rustic:barrel" }
+	}
+}

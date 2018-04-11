@@ -1,0 +1,104 @@
+{
+	"forge_marker": 1,
+	"defaults": {},
+	"variants": {
+		"design": {
+			0: {
+				"model": "rustic:pot_0",
+				"textures": {
+					"side_out": "rustic:blocks/pots/pot_side_0",
+					"side_in": "rustic:blocks/pots/pot_side_0",
+					"top": "rustic:blocks/pots/pot_top_0"
+				}
+			},
+			1: {
+				"model": "rustic:pot_0",
+				"textures": {
+					"side_out": "rustic:blocks/pots/pot_side_1",
+					"side_in": "rustic:blocks/pots/pot_side_1",
+					"top": "rustic:blocks/pots/pot_top_1"
+				}
+			},
+			2: {
+				"model": "rustic:pot_0",
+				"textures": {
+					"side_out": "rustic:blocks/pots/pot_side_2",
+					"side_in": "rustic:blocks/pots/pot_side_1",
+					"top": "rustic:blocks/pots/pot_top_2"
+				}
+			},
+			3: {
+				"model": "rustic:pot_0",
+				"textures": {
+					"side_out": "rustic:blocks/pots/pot_side_3",
+					"side_in": "rustic:blocks/pots/pot_side_3",
+					"top": "rustic:blocks/pots/pot_top_3"
+				}
+			},
+			4: {
+				"model": "rustic:pot_0",
+				"textures": {
+					"side_out": "rustic:blocks/pots/pot_side_4",
+					"side_in": "rustic:blocks/pots/pot_side_4",
+					"top": "rustic:blocks/pots/pot_top_4"
+				}
+			},
+			5: {
+				"model": "rustic:pot_0",
+				"textures": {
+					"side_out": "rustic:blocks/pots/pot_side_5",
+					"side_in": "rustic:blocks/pots/pot_side_0",
+					"top": "rustic:blocks/pots/pot_top_5"
+				}
+			},
+			6: {
+				"model": "rustic:pot_0",
+				"textures": {
+					"side_out": "rustic:blocks/pots/pot_side_6",
+					"side_in": "rustic:blocks/pots/pot_side_6",
+					"top": "rustic:blocks/pots/pot_top_6"
+				}
+			},
+			7: {
+				"model": "rustic:pot_1",
+				"textures": {
+					"side_out": "rustic:blocks/pots/pot_side_7",
+					"side_in": "rustic:blocks/pots/pot_side_7",
+					"top": "rustic:blocks/pots/pot_top_7"
+				}
+			},
+			8: {
+				"model": "rustic:pot_1",
+				"textures": {
+					"side_out": "rustic:blocks/pots/pot_side_8",
+					"side_in": "rustic:blocks/pots/pot_side_8",
+					"top": "rustic:blocks/pots/pot_top_8"
+				}
+			},
+			9: {
+				"model": "rustic:pot_1",
+				"textures": {
+					"side_out": "rustic:blocks/pots/pot_side_9",
+					"side_in": "rustic:blocks/pots/pot_side_8",
+					"top": "rustic:blocks/pots/pot_top_9"
+				}
+			},
+			10: {
+				"model": "rustic:pot_1",
+				"textures": {
+					"side_out": "rustic:blocks/pots/pot_side_10",
+					"side_in": "rustic:blocks/pots/pot_side_10",
+					"top": "rustic:blocks/pots/pot_top_10"
+				}
+			},
+			11: {
+				"model": "rustic:pot_1",
+				"textures": {
+					"side_out": "rustic:blocks/pots/pot_side_11",
+					"side_in": "rustic:blocks/pots/pot_side_11",
+					"top": "rustic:blocks/pots/pot_top_11"
+				}
+			}
+		}
+	}
+}

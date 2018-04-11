@@ -1,0 +1,49 @@
+Speed					wildberries
+Speed					wind thistle
+Regeneration			purple fairy ring flower
+Regeneration			honeysuckle
+Instant Health			spritesbreath flower
+Instant Health			blood orchid
+Iron Skin				ironberries
+Jump Boost	            cloudsbluff
+Jump Boost	            slimewort
+Night Vision            moon cap
+Invisibility            ghostwort
+Water Breathing         turtlegrass
+Haste					core root
+Strength				torstal root
+Strength				power berries
+Fire Resistance         aloe vera
+Slow Falling			feather fern
+Slowness				dream lily
+Slowness				tangleweed
+Poison					yew berries
+Poison					moonleaf
+Instant Damage			desert rose
+Instant Damage			necromancer's nightshade
+Levitation				chorus fruit
+Weakness				nether wart
+Wither					deathstalk
+Wither					devil's eye flower
+Blindness               dusk flower
+
+Characteristics
+	Power Berries: only grows during daytime with exposure to sunlight
+	Dusk Flower: only blooms in darkness
+	Core Root: only grows below sea level, and faster with depth
+	Cloudsbluff: grows faster with altitude
+	Honey Suckle: only grows near bees
+	Turtlegrass: only grows underwater
+	Slimewort: only grows in swamps or slime chunks
+	Moonleaf: only blooms during a full or new moon
+	Moon Cap: only grows at night, not during new moon
+	Devil's Eye: only grows next to lava
+	Deathstalk: only grows in the nether
+	Ghostwort: only grows on soulsand, in the nether
+	Tangleweed: only grows on soulsand
+	
+Plants that need growth quirks:
+	Blood Orchid
+	Feather Fern
+	Necromancer's Nightshade
+	

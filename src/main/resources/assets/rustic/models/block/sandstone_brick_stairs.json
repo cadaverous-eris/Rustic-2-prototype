@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "rustic:blocks/sandstone_bricks",
+        "top": "rustic:blocks/sandstone_bricks",
+        "side": "rustic:blocks/sandstone_bricks"
+    }
+}

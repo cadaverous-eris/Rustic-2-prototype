@@ -1,0 +1,26 @@
+{
+	"forge_marker": 1,
+	"defaults": { "model": "rustic:wind_thistle" },
+	"variants": {
+		"age=0": [{ "y": 0 }, { "y": 90 }, { "y": 180 }, { "y": 270 }],
+		"age=1": [{ "y": 0 }, { "y": 90 }, { "y": 180 }, { "y": 270 }],
+		"age=2": [{ "y": 0 }, { "y": 90 }, { "y": 180 }, { "y": 270 }],
+		"age=3": [{ "y": 0 }, { "y": 90 }, { "y": 180 }, { "y": 270 }],
+		"age=4": [{ "y": 0 }, { "y": 90 }, { "y": 180 }, { "y": 270 }],
+		"age=5": [{ "y": 0 }, { "y": 90 }, { "y": 180 }, { "y": 270 }],
+		"age=6": [{ "y": 0 }, { "y": 90 }, { "y": 180 }, { "y": 270 }],
+		"age": {
+			"0": { "textures": { "plant": "rustic:blocks/herbs/wind_thistle0" } },
+			"1": { "textures": { "plant": "rustic:blocks/herbs/wind_thistle1" } },
+			"2": { "textures": { "plant": "rustic:blocks/herbs/wind_thistle1" } },
+			"3": { "textures": { "plant": "rustic:blocks/herbs/wind_thistle2" } },
+			"4": { "textures": { "plant": "rustic:blocks/herbs/wind_thistle2" } },
+			"5": { "textures": { "plant": "rustic:blocks/herbs/wind_thistle3" } },
+			"6": { "textures": { "plant": "rustic:blocks/herbs/wind_thistle4" } }
+		},
+		"inventory": {
+			"model": "rustic:wind_thistle",
+			"textures": { "plant": "rustic:blocks/herbs/wind_thistle4" }
+		}
+	}
+}

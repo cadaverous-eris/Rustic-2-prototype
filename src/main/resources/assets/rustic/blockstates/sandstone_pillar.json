@@ -1,0 +1,24 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "cube_column",
+		"textures": {
+			"side": "rustic:blocks/sandstone_pillar",
+			"end": "rustic:blocks/sandstone_polished"
+		}
+	},
+	"variants": {
+		"axis": {
+			"x": { "x": 90, "y": 90 },
+			"y": {},
+			"z": { "x": 90 }
+		},
+		"inventory": {
+			"model": "cube_column",
+			"textures": {
+				"side": "rustic:blocks/sandstone_pillar",
+				"end": "rustic:blocks/sandstone_polished"
+			}
+		}
+	}
+}
