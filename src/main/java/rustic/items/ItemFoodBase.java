@@ -10,7 +10,7 @@ public class ItemFoodBase extends ItemFood {
 		super(amount, saturation, isWolfFood);
 		setRegistryName(new ResourceLocation(Rustic.MODID, name));
 		setUnlocalizedName(Rustic.MODID + "." + name);
-		setCreativeTab(Rustic.decor_tab);
+		setCreativeTab(Rustic.tab);
 	}
 	
 }

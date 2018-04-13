@@ -28,7 +28,7 @@ public class ItemBlockSlab extends ItemBlock {
 		this.doubleSlab = doubleSlab;
 		
 		setRegistryName(block.getRegistryName() + "_item");
-		tab = Rustic.decor_tab;
+		tab = Rustic.tab;
 	}
 	
 	@Override

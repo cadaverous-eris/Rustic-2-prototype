@@ -14,7 +14,7 @@ public class BlockStairsBase extends BlockStairs {
 		
 		setLightOpacity(0);
 		
-		setCreativeTab(Rustic.decor_tab);
+		setCreativeTab(Rustic.tab);
 	}
 
 }

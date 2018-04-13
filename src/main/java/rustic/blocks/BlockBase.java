@@ -18,7 +18,7 @@ public class BlockBase extends Block {
 		setResistance(10f);
 		setSoundType(SoundType.STONE);
 		
-		setCreativeTab(Rustic.decor_tab);
+		setCreativeTab(Rustic.tab);
 	}
 
 }

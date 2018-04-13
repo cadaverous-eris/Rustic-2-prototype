@@ -15,11 +15,7 @@ import rustic.network.PacketHandler;
 public class CommonProxy {
 	
 	public void preInit(FMLPreInitializationEvent event) {
-		PacketHandler.registerMessages();
 		
-		File directory = event.getModConfigurationDirectory();
-        Rustic.config = new Configuration(new File(directory.getPath(), "rustic.cfg"));
-        Config.readConfig();
 	}
 	
 	public void init(FMLInitializationEvent event) {
@@ -27,9 +23,7 @@ public class CommonProxy {
 	}
 	
 	public void postInit(FMLPostInitializationEvent event) {
-		if (Rustic.config.hasChanged()) {
-			Rustic.config.save();
-        }
+		
 	}
 
 }

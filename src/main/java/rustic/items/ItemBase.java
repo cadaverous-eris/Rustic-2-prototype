@@ -10,7 +10,7 @@ public class ItemBase extends Item {
 		super();
 		setRegistryName(new ResourceLocation(Rustic.MODID, name));
 		setUnlocalizedName(Rustic.MODID + "." + name);
-		setCreativeTab(Rustic.decor_tab);
+		setCreativeTab(Rustic.tab);
 	}
 
 }

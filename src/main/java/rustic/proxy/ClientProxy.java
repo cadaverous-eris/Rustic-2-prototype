@@ -10,6 +10,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import rustic.blocks.IColoredBlock;
+import rustic.items.IColoredItem;
 
 public class ClientProxy extends CommonProxy {
 	
@@ -39,11 +40,11 @@ public class ClientProxy extends CommonProxy {
 		}
 	}
 
-	/*public static void addColoredItem(Item item) {
+	public static void addColoredItem(Item item) {
 		if (item instanceof IColoredItem) {
 			coloredItems.add(item);
 		}
-	}*/
+	}
 	
 	private void initColorizer() {
 		for (Block block : coloredBlocks) {
@@ -57,14 +58,14 @@ public class ClientProxy extends CommonProxy {
 				}
 			}
 		}
-		/*for (Item item : coloredItems) {
+		for (Item item : coloredItems) {
 			if (item instanceof IColoredItem) {
 				IColoredItem coloredItem = (IColoredItem) item;
 				if (coloredItem.getItemColor() != null) {
 					Minecraft.getMinecraft().getItemColors().registerItemColorHandler(coloredItem.getItemColor(), item);
 				}
 			}
-		}*/
+		}
 	}
 
 }

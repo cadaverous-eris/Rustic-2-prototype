@@ -1,0 +1,65 @@
+base
+	hammer
+	almanac
+	
+alchemy
+	plants
+	elixirs
+		alembic
+		receptacle
+		elixir
+	lute
+		lute
+		enchanted lute
+	bow
+		yew wood bow
+		enchanted bow
+	rituals
+	vegetable lamb
+	
+agriculture
+	cooking
+		stews
+		sandwiches
+		salads
+		misc. food items
+	brewing
+		barrels
+		beverages
+	cheesemaking
+	crops
+		grapes
+		tomatoes
+		chili peppers
+	bees
+		beehives
+		bee mobs
+		bee items
+		bug net?
+		apiary
+	
+decoration
+	sandstone bricks
+	pillars
+	polished stones
+	pots
+	barrels
+	cabinets
+	candles
+	chain
+	rope
+	lattice
+	iron bars
+	iron lanterns
+	wooden lanterns
+	iron torches
+	slate
+	clay walls
+	thatch
+
+structures
+	alchemist's cottage
+	stone ruins
+	obelisk
+	ancient temple
+	
